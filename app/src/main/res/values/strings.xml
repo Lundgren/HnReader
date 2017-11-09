@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HnReader</string>
+    <string name="fetch_error_msg">An error occurred while fetching data, please try again.</string>
+</resources>
